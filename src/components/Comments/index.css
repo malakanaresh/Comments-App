@@ -1,0 +1,17 @@
+/* Write your CSS here */
+
+.two-containers {
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+  align-items: cneter;
+}
+.container {
+  height: 100vh;
+
+  width: 100vw;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: cneter;
+}
